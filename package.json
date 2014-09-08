@@ -1,17 +1,17 @@
 {
-  "name": "mean-template",
+  "name": "angulator",
   "version": "0.0.0",
-  "description": "The MEAN Template",
+  "description": "Angulator ",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chyld/mean-template"
+    "url":"https://github.com/jjsub/angulartor.git"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Juan Job <jsamesub@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chyld/mean-template/issues"
+    "url":  "https://github.com/jjsub/angulartor.git"
   },
-  "homepage": "https://github.com/chyld/mean-template",
+  "homepage": "https://github.com/jjsub/angulartor.git",
   "dependencies": {
     "express": "^4.8.8",
     "morgan": "^1.3.0"
